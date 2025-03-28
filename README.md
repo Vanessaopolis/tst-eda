@@ -17,5 +17,5 @@ Este repositório contém soluções **pessoais**, mas se você quiser sugerir m
 
 
 ---
-📌 **Observação:** Este repositório é para fins educacionais e as soluções aqui apresentadas podem não ser as únicas ou as mais eficientes. Sempre experimente diferentes abordagens e busque otimizações!
+📌 **Observação:** Este repositório é para fins educacionais e as soluções aqui apresentadas podem não ser as únicas ou as mais eficientes. Então, experimente diferentes abordagens e busque otimizações!
 
