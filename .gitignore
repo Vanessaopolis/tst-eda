@@ -1,0 +1,26 @@
+# Diretórios de compilação
+/bin/
+/build/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos de compilação Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de pacotes
+*.tar.gz
+*.zip
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
