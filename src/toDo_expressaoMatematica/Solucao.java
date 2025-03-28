@@ -1,4 +1,4 @@
-package toDo_estruturas;
+package toDo_expressaoMatematica;
 
 import java.util.Scanner;
 import java.util.Stack;
